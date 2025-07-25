@@ -77,7 +77,9 @@ Realizei cursos oficiais da Cisco em parceria com a UFRN, com foco em redes de c
       </a>
     </td>
     <td>
-      <strong>CCNA: Switching, Routing, and Wireless Essentials</strong>
+      <a href="https://www.credly.com/badges/c9839ad0-705e-4d16-bf4e-633039f1f9c7/public_url">
+        <strong>CCNA: Switching, Routing, and Wireless Essentials</strong>
+      </a>
     </td>
   </tr>
   <tr>
@@ -87,14 +89,15 @@ Realizei cursos oficiais da Cisco em parceria com a UFRN, com foco em redes de c
       </a>
     </td>
     <td>
-      <strong>CCNA: Introduction to Networks</strong>
+      <a href="https://www.credly.com/badges/f3fab5bc-a22e-4ca1-9a41-2957a8e3dce9/public_url">
+        <strong>CCNA: Introduction to Networks</strong>
+      </a>
     </td>
   </tr>
 </table>
 
 
 ---
-
 ### 💼 Estou em busca de...
 
 > Oportunidades como **Desenvolvedor Backend Júnior** ou **Estágio em Desenvolvimento Java**, com foco em projetos reais, aprendizado contínuo e ambiente de equipe.
@@ -115,10 +118,9 @@ Realizei cursos oficiais da Cisco em parceria com a UFRN, com foco em redes de c
 
 ### 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/geraldo-lucas) — vamos nos conectar!
-- E-mail: **geraldolucas10@gmail.com**
-- GitHub: [@gllucass](https://github.com/gllucass)
-
+- <a href="https://www.linkedin.com/in/geraldo-lucas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 22px;"></a> — <a href="https://www.linkedin.com/in/geraldo-lucas" target="_blank">/in/geraldo-lucas</a>
+- <a href="mailto:geraldolucas10@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" style="height: 22px;"></a> — <a href="mailto:geraldolucas10@gmail.com" target="_blank">geraldolucas10@gmail.com</a>
+- <a href="https://discord.com/users/295373063011434508" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" style="height: 22px;"></a> — <a href="https://discord.com/users/295373063011434508" target="_blank">GeraldoLucas</a>
 ---
 
 ### ⚡ Stats
