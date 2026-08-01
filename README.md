@@ -1,45 +1,49 @@
 <h1 align="center">Olá! Eu sou Geraldo Lucas 👋</h1>
 
 <p align="center">
-  <b>Desenvolvedor Backend • Java • Spring Boot • C++ • SQL • CCNA</b>
+  <b>Desenvolvedor Backend Java • Spring Boot • SQL & NoSQL (Redis) • QA • CCNA</b>
 </p>
 
 ---
 
 ### 👨‍💻 Sobre mim
 
-Sou um **Desenvolvedor Backend** em formação com foco em **Java e Spring Boot**, criando soluções escaláveis, performáticas e bem estruturadas. Tenho experiência prática no desenvolvimento de sistemas, domínio em estruturas de dados e algoritmos, além de conhecimento sólido em versionamento com Git.
+Sou **Desenvolvedor Backend Java** focado em criar APIs RESTful e aplicações distribuídas escaláveis, performáticas e bem estruturadas com **Spring Boot**. Minha trajetória une experiência prática no ciclo completo de desenvolvimento de software, validação de regras de negócio, garantia de qualidade (QA) e manipulação de bancos de dados relacionais (SQL) e não-relacionais (NoSQL/Redis).
 
-Atualmente, curso **Bacharelado em Tecnologia da Informação** na **UFRN** e atuo como **Consultor de TI**, trabalhando com desenvolvimento e manutenção de sistemas em VBA.
+Atualmente, curso **Bacharelado em Tecnologia da Informação** na **UFRN** e atuo como **Analista de Qualidade de Software (QA)**, trabalhando em estreita colaboração com times de desenvolvimento na investigação de bugs, consultas SQL avançadas (Oracle/MySQL) e homologação de entregas.
 
 ---
 
-### 🧠 Tecnologias
+### 🧠 Tecnologias & Ferramentas
 
 <table align="center">
   <tr>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-      <br>Java
+      <br>Java 21
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring" />
-      <br>Spring
+      <br>Spring Boot
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
-      <br>C++
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" />
+      <br>Redis
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" />
+      <br>Oracle
     </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
       <br>Docker
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
       <br>Git
@@ -53,27 +57,35 @@ Atualmente, curso **Bacharelado em Tecnologia da Informação** na **UFRN** e at
       <br>Swagger
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/junit5/25A162" width="48" height="48" alt="JUnit5" />
-      <br>JUnit
-    </td>
-     <td align="center" width="96">
       <img src="https://www.svgrepo.com/show/331335/cisco.svg" width="48" height="48" alt="Cisco" />
-      <br>Cisco
+      <br>Cisco CCNA
     </td>
   </tr>
 </table>
 
 ---
 
-### 📚 Certificações em Redes
+### 📚 Certificações em Redes & Infraestrutura
 
-Realizei cursos oficiais da Cisco em parceria com a UFRN, com foco em redes de computadores, roteamento e comutação:
+Formação sólida em redes de computadores, roteamento e segurança através dos cursos oficiais da Cisco NetAcad:
 
 <table>
   <tr>
     <td width="100" align="center">
       <a href="https://www.credly.com/badges/c9839ad0-705e-4d16-bf4e-633039f1f9c7/public_url">
-        <img src="https://i.imgur.com/PU7oXTa.png" width="80" height="80" alt="Badge da Certificação CCNA SRWE"/>
+        <img src="https://i.imgur.com/PU7oXTa.png" width="80" height="80" alt="Badge CCNA Enterprise"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.credly.com/badges/c9839ad0-705e-4d16-bf4e-633039f1f9c7/public_url">
+        <strong>CCNA: Enterprise Networking, Security, and Automation</strong>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="100" align="center">
+      <a href="https://www.credly.com/badges/c9839ad0-705e-4d16-bf4e-633039f1f9c7/public_url">
+        <img src="https://i.imgur.com/PU7oXTa.png" width="80" height="80" alt="Badge CCNA SRWE"/>
       </a>
     </td>
     <td>
@@ -85,7 +97,7 @@ Realizei cursos oficiais da Cisco em parceria com a UFRN, com foco em redes de c
   <tr>
     <td width="100" align="center">
       <a href="https://www.credly.com/badges/f3fab5bc-a22e-4ca1-9a41-2957a8e3dce9/public_url">
-        <img src="https://i.imgur.com/BocELkm.png" width="80" height="80" alt="Badge da Certificação CCNA ITN"/>
+        <img src="https://i.imgur.com/BocELkm.png" width="80" height="80" alt="Badge CCNA ITN"/>
       </a>
     </td>
     <td>
@@ -96,40 +108,47 @@ Realizei cursos oficiais da Cisco em parceria com a UFRN, com foco em redes de c
   </tr>
 </table>
 
-
----
-### 💼 Estou em busca de...
-
-> Oportunidades como **Desenvolvedor Backend Júnior** ou **Estágio em Desenvolvimento Java**, com foco em projetos reais, aprendizado contínuo e ambiente de equipe.
-
-✅ Disponível para trabalho **Remoto ou Presencial (RN e região)** ✅ Forte interesse em **Java + Spring Boot** ✅ Comprometido com **qualidade de código, organização e boas práticas**
-
 ---
 
-### 📌 Projetos em destaque
+### 💼 Buscando Oportunidades em...
+
+> Atuação como **Desenvolvedor Java Backend (Júnior ou Pleno)**, onde possa aplicar criação de APIs, arquitetura de software, bancos de dados SQL/NoSQL e boas práticas de código.
+
+✅ Disponível para atuação **Remota ou Presencial (RN e região)**  
+✅ Foco em ecossistema **Java + Spring Boot**  
+✅ Visão sistêmica completa: **Desenvolvimento + Qualidade (QA) + Banco de Dados + Infraestrutura**
+
+---
+
+### 📌 Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| **[Sistema de Reservas de Voo](https://github.com/gllucass/projeto-avl-reservas)** | Sistema usando árvore AVL para gerenciar reservas de voos | Java, Estruturas de Dados |
-| **[Gerenciador de Estoque com Árvore Binária](https://github.com/gllucass/gerenciador-estoque-bst)** | Sistema de gerenciamento de produtos com árvore de busca binária | Java, OOP |
-| **[Cadastro de Ninjas](https://github.com/gllucass/Cadastrodeninjas)** *(em andamento)* | Sistema de cadastro e gerenciamento de ninjas e missões com relacionamento 1:N | Spring Boot, H2, JPA, Flyway, Maven, Docker |
+| **[RedisConnect 💬](https://github.com/MarceloJoao/RedisConnect)** | Chat em tempo real utilizando Redis como banco de dados principal (estruturas nativas e Pub/Sub) para gerenciamento de usuários, salas e histórico, integrado com WebSockets/STOMP. | Java 21, Spring Boot, Redis, WebSockets, Docker, Render |
+| **[Cadastro de Ninjas](https://github.com/gllucass/Cadastrodeninjas)** | Aplicação Full-Stack/API RESTful documentada com SpringDoc (Swagger), renderização web via Thymeleaf e persistência com JPA. | Java, Spring Boot, JPA, Thymeleaf, Swagger, H2 |
+| **[Sistema de Reservas de Voo](https://github.com/gllucass/projeto-avl-reservas)** | Gerenciamento de reservas utilizando estrutura de dados balanceada (Árvore AVL). | Java, Estruturas de Dados |
+| **[Gerenciador de Estoque](https://github.com/gllucass/gerenciador-estoque-bst)** | Sistema de controle de estoque baseado em Árvore de Busca Binária (BST). | Java, Orientação a Objetos |
 
 ---
 
 ### 📫 Contato
 
-- <a href="https://www.linkedin.com/in/geraldo-lucas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 22px;"></a> — <a href="https://www.linkedin.com/in/geraldo-lucas" target="_blank">/in/geraldo-lucas</a>
-- <a href="mailto:geraldolucas10@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" style="height: 22px;"></a> — <a href="mailto:geraldolucas10@gmail.com" target="_blank">geraldolucas10@gmail.com</a>
-- <a href="https://discord.com/users/295373063011434508" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" style="height: 22px;"></a> — <a href="https://discord.com/users/295373063011434508" target="_blank">GeraldoLucas</a>
+<a href="https://www.linkedin.com/in/geraldo-lucas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://discord.com/users/295373063011434508" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+
 ---
 
-### ⚡ Stats
+### ⚡ Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gllucass&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gllucass&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gllucass&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Geraldo's GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/gllucass?label=Seguidores&style=for-the-badge&color=7aa2f7&logo=github" alt="Followers Badge"/>
+  <img src="https://img.shields.io/github/stars/gllucass?label=Stars%20Recebidas&style=for-the-badge&color=bb9af7&logo=github" alt="Stars Badge"/>
 </p>
 
 ---
 
-*Obrigado por visitar meu perfil! Se você estiver contratando, será um prazer conversar*
+*Obrigado por visitar meu perfil! Fique à vontade para conectar-se comigo ou explorar meus repositórios.*
